@@ -1,4 +1,4 @@
-# MoodBank
+# Mood.ly
 
 This is a modified version of the app that is used for CAS LX496 Project. The sentiment's analyser have been replaced by a model that was trained
 using sklearn. The idea is simple: analyze the user's mood based on their answers on serveral question, combining with the weather data and some 
